@@ -1,2 +1,4 @@
 This is new file
 I want to be rich
+
+This is the new update for lab02
